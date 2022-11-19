@@ -6,7 +6,9 @@
   --secondary-bg-color: #f5f4fa;
   --tertiary-bg-colo: #2f303a;
   --primary-black-color: #000000;
+  
 }
+
 /* 
 |==================================
 | Base styles
@@ -358,7 +360,7 @@ img {
   line-height: calc(19 / 16);
   text-align: center;
   color: var(--secondary-text-color);
-  margin-bottom: 28px;
+  margin-bottom: 16px;
 }
 
 .socials {
